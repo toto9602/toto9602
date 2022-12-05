@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:c0c0c0&height=200&section=header&text=toto9602's%20Github%20Page&fontSize=60&fontColor=ffffff&fontAlignY=38&animation=twinkling" />
 
 ## :computer:Github Stats
-![Dongmin Kim GitHub stats](https://github-readme-stats.vercel.app/api?username=toto9602&theme=great-gatsby&show_icons=true)
+![Dongmin Kim GitHub stats](https://github-readme-stats.vercel.app/api?username=toto9602&theme=great-gatsby&show_icons=true&count_private=true)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toto9602&layout=compact"><br><br>
 
