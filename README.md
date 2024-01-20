@@ -3,7 +3,7 @@
 ## :computer:Github Stats
 ![Dongmin Kim GitHub stats](https://github-readme-stats.vercel.app/api?username=toto9602&theme=great-gatsby&show_icons=true&count_private=true)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toto9602&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toto9602&layout=compact"> <img src="https://blograss-weld.vercel.app/api?type=weekly&name=toto9602">
 
 ## :chart_with_upwards_trend: Learning
 
