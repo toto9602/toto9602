@@ -32,9 +32,7 @@
 
 ## :notebook_with_decorative_cover: Education
 
-`2016.03 ~ 2022` : 고려대학교 문과대학 사회학과 수료
-
-`2019 ~ 2022` : 고려대학교 LB&C(Language, Brain and Computer) 융합전공 수료
+`2016.03 ~ 2023` : 고려대학교 문과대학 사회학과, LB&C(Language, Brain and Computer) 융합전공 졸업
 <!--
 **toto9602/toto9602** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
