@@ -28,7 +28,7 @@
 
 `2022.02 ~ 2022.12` : NEXT X LIKELION 10기 운영진
 
-`2022.07 ~` : Mesher SW Engineer (백엔드 개발)
+`2022.07 ~ 2024.07` : Mesher SW Engineer (백엔드 개발)
 
 ## :notebook_with_decorative_cover: Education
 
